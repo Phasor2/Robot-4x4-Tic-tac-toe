@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 #
-# Authors: Dhakshayini Koppad <dkoppad@pdx.edu>
 #
 #Tic Tac Toe game in python
 # Date:
